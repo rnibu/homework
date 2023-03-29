@@ -1,0 +1,360 @@
+23   // line one
+3
+50	
+
+//line one
+1    ld space
+32    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld underscore
+95    
+9    output
+2
+1    ld newline
+10    
+9    output
+2
+//line2
+1    ld /
+47    
+9    output
+2
+1    ld tab
+9    
+9    output
+2
+1    ld \
+92    
+9    output
+2
+1    ld newline
+10    
+9    output
+2
+//line 3
+1    ld |
+124    
+9    output
+2
+1    ld tab
+9    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1    ld newline
+10    
+9    output
+2
+//line 3
+1    ld \
+92    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld /
+47    
+9    output
+2
+1    ld newline
+10    
+9    output
+2
+
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1    ld newline
+10    
+9    output
+2
+
+//line 4
+1    ld |
+124    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1
+10
+9
+2
+
+//line5
+1    ld |
+124    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld space
+95    
+9    output
+2
+1    ld space
+95    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1    ld _
+95    
+9    output
+2
+1    ld space
+95    
+9    output
+2
+1    ld space
+95    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1
+10
+9
+2
+
+
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld |
+124    
+9    output
+2
+1    ld newline
+10    
+9    output
+2
+//line9
+1    ld space
+32    
+9    output
+2
+
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1
+47
+9
+2
+1    ld space
+32    
+9    output
+2
+1
+92
+9
+2
+1
+10
+9
+2
+//line10
+
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1
+47
+9
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1
+92
+9
+2
+1
+10
+9
+2
+
+//line11
+
+
+1    ld space
+32    
+9    output
+2
+1
+47
+9
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1    ld space
+32    
+9    output
+2
+1
+92
+9
+2
+1
+10
+9
+2
+
+24
+
+.1000
+30 
